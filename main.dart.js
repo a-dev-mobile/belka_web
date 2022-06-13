@@ -9463,7 +9463,7 @@ VW:function VW(a){this.a=a},
 anx:function anx(){},
 a1Z:function a1Z(a){this.a=a},
 avz:function avz(a){this.a=a},
-aRV(){return new A.tx(A.aU7(!0,"/splash",A.a([A.BA("splash",new A.a4y(),"/splash"),A.BA("onboarding",new A.a4z(),"/onboarding"),A.BA("update-app",new A.a4A(),"/update-app"),A.BA("calculator",new A.a4B(),"/calculator"),A.BA("no-internet",new A.a4C(),"/:arg1/no-internet")],t.Kk),B.EA))},
+aRV(){return new A.tx(A.aU7(!0,"/",A.a([A.BA("splash",new A.a4y(),"/"),A.BA("onboarding",new A.a4z(),"/onboarding"),A.BA("update-app",new A.a4A(),"/update-app"),A.BA("calculator",new A.a4B(),"/calculator"),A.BA("no-internet",new A.a4C(),"/:arg1/no-internet")],t.Kk),B.EA))},
 aRW(){return A.aRV()},
 tx:function tx(a){this.a=a},
 a4y:function a4y(){},
@@ -45531,7 +45531,7 @@ r.toString
 return A.iq(A.dF(r.gTa(r),s,s,s,s,s),s,s)}}
 A.ayu.prototype={
 $0(){$.kg().$1$0(t.u0)
-var s=A.aq([B.q5,new A.O3(),B.Mc,new A.Oq(),B.Md,new A.Or()],t.Ha,t.ed).i(0,this.a)
+var s=A.aq([B.Mc,new A.O3(),B.q5,new A.Oq(),B.Md,new A.Or()],t.Ha,t.ed).i(0,this.a)
 s.toString
 return s},
 $S:380}
@@ -86599,8 +86599,8 @@ B.M9=new A.uz(null)
 B.Ma=new A.uA(0,"noOpinion")
 B.Mb=new A.uA(1,"enabled")
 B.j5=new A.uA(2,"disabled")
-B.q5=new A.pT(0,"dev")
-B.Mc=new A.pT(1,"prod")
+B.Mc=new A.pT(0,"dev")
+B.q5=new A.pT(1,"prod")
 B.Md=new A.pT(2,"stg")
 B.Me=new A.Bf(null,null,null,null,null,null,null,null,null)
 B.adK=new A.a9E(0)
