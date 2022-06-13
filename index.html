@@ -33,8 +33,13 @@
   <title>BelkaCredit</title>
   <link rel="manifest" href="manifest.json">
   <script src="splash/splash.js"></script>
- 
+
   <link rel="stylesheet" type="text/css" href="splash/style.css">
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    var serviceWorkerVersion = '3317199766';
+  </script>
+  <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 
@@ -61,8 +66,7 @@
           });
         });
       </script>
- 
- <script>
+  <script>
     var serviceWorkerVersion = null;
     var scriptLoaded = false;
     function loadMainDartJs() {
