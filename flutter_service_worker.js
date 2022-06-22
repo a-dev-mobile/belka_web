@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fdca50252b008eae666f7057a0a16403",
+  "assets/AssetManifest.json": "31a83a65e735611394924c98fa1b4f93",
 "assets/assets/docs/1.pdf": "ac717a8081ac3c18826bf73b6b67a2ce",
 "assets/assets/docs/10.pdf": "4194dc22c9d0ab351e360fc478a8dcf7",
 "assets/assets/docs/11.pdf": "0d3ce615a4de06d17b51144531220bf0",
@@ -72,6 +72,7 @@ const RESOURCES = {
 "assets/assets/svg/passport_selfie.svg": "718e16433605c97e3cd87fba76778115",
 "assets/assets/svg/pco_congrats.svg": "6f5472f1a1848d7e1825f5c1ee37e42e",
 "assets/assets/svg/personal_card.svg": "884339042bac613101b0266acf9a6d20",
+"assets/assets/svg/progressbar_1.svg": "3777d38869ac0b71d430d124aea908c4",
 "assets/assets/svg/reject.svg": "4cb1f9c4abcc87215d50878007c5b58f",
 "assets/assets/svg/selfie.svg": "98723507bf68e7f0a6127ebda8fb0e1a",
 "assets/assets/svg/slider_minus.svg": "af1d49b578deab56c77ce201a4f853ad",
@@ -89,9 +90,9 @@ const RESOURCES = {
 "icons/favicon-16x16.png": "05f88cf6b0ec2a98bf8a1877031f1b25",
 "icons/favicon-32x32.png": "421900d6318ce442613adf9b4fdbf763",
 "icons/favicon.ico": "43073be7ae6cc7330c17422e74a7aef4",
-"index.html": "714f83b24a5a0b5049ceaa6d200e6e5a",
-"/": "714f83b24a5a0b5049ceaa6d200e6e5a",
-"main.dart.js": "c69764eda6ef7097248e3742e900a9a5",
+"index.html": "a04336ccef5ffba551416648ac0b2ece",
+"/": "a04336ccef5ffba551416648ac0b2ece",
+"main.dart.js": "eeb70b587e2e3c787d56281bfa0f9786",
 "manifest.json": "b7eae9a5d0342484030ca51b6c79225d",
 "splash/img/dark-1x.png": "d9cbb090ec27fb4c547641aa6d070063",
 "splash/img/dark-2x.png": "23f1797e57447e978b290f341d03550b",
